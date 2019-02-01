@@ -1,0 +1,2 @@
+# HAMSTERZ
+MOLES C++ Console
